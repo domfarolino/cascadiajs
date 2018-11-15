@@ -12,6 +12,8 @@ and we work on standardizing the web platform. Here are some useful links:
 
  - [WHATWG GitHub Page](https://github.com/whatwg/)
  - [List of all the WHATWG standards](https://spec.whatwg.org/)
+ - [Meta repository](https://github.com/whatwg/meta/)
+ - [Good first issues](https://github.com/search?q=org%3Awhatwg+label%3A%22good+first+issue%22+is%3Aopen)
 
 # Contributing
 
