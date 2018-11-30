@@ -45,3 +45,8 @@ to see the status of each test as it ran on each browser. We're always writing m
 fixing ones that don't work too easily. If you're interested in getting involved, feel free to
 check out some WHATWG pull requests labeled [needs tests](https://github.com/search?q=org%3Awhatwg+label%3A%22needs+tests%22+is%3Aopen)
 to help us keep the web platform continually tested.
+
+# Talk slides
+
+The slides for the talk can be found in the root of this repository (both Keynote and PDF format),
+or on [slideshare](https://www.slideshare.net/DominicFarolino/hitchhikers-guide-to-web-standards) as well.
